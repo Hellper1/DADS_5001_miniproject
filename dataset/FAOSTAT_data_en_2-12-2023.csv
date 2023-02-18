@@ -1755,46 +1755,46 @@ Hong Kong,HKG,2020,1.901
 "China, mainland",CHN,2018,1.35
 "China, mainland",CHN,2019,1.413
 "China, mainland",CHN,2020,1.636
-"China, Taiwan Province of",CHN,1980,0.245
-"China, Taiwan Province of",CHN,1981,0.134
-"China, Taiwan Province of",CHN,1982,-0.111
-"China, Taiwan Province of",CHN,1983,0.285
-"China, Taiwan Province of",CHN,1984,-0.526
-"China, Taiwan Province of",CHN,1985,-0.035
-"China, Taiwan Province of",CHN,1986,-0.208
-"China, Taiwan Province of",CHN,1988,0.22
-"China, Taiwan Province of",CHN,1989,-0.016
-"China, Taiwan Province of",CHN,1990,0.244
-"China, Taiwan Province of",CHN,1991,0.485
-"China, Taiwan Province of",CHN,1992,-0.1
-"China, Taiwan Province of",CHN,1993,0.316
-"China, Taiwan Province of",CHN,1994,0.325
-"China, Taiwan Province of",CHN,1995,0.158
-"China, Taiwan Province of",CHN,1996,-0.02
-"China, Taiwan Province of",CHN,1997,0.105
-"China, Taiwan Province of",CHN,1998,1.162
-"China, Taiwan Province of",CHN,1999,0.691
-"China, Taiwan Province of",CHN,2000,0.389
-"China, Taiwan Province of",CHN,2001,0.744
-"China, Taiwan Province of",CHN,2002,0.889
-"China, Taiwan Province of",CHN,2003,0.832
-"China, Taiwan Province of",CHN,2004,0.399
-"China, Taiwan Province of",CHN,2005,0.622
-"China, Taiwan Province of",CHN,2006,0.679
-"China, Taiwan Province of",CHN,2007,0.747
-"China, Taiwan Province of",CHN,2008,0.542
-"China, Taiwan Province of",CHN,2009,0.73
-"China, Taiwan Province of",CHN,2010,0.482
-"China, Taiwan Province of",CHN,2011,0.021
-"China, Taiwan Province of",CHN,2012,0.309
-"China, Taiwan Province of",CHN,2013,0.616
-"China, Taiwan Province of",CHN,2014,0.702
-"China, Taiwan Province of",CHN,2015,0.746
-"China, Taiwan Province of",CHN,2016,1.056
-"China, Taiwan Province of",CHN,2017,1.415
-"China, Taiwan Province of",CHN,2018,1.189
-"China, Taiwan Province of",CHN,2019,1.407
-"China, Taiwan Province of",CHN,2020,1.878
+Taiwan,TWN,1980,0.245
+Taiwan,TWN,1981,0.134
+Taiwan,TWN,1982,-0.111
+Taiwan,TWN,1983,0.285
+Taiwan,TWN,1984,-0.526
+Taiwan,TWN,1985,-0.035
+Taiwan,TWN,1986,-0.208
+Taiwan,TWN,1988,0.22
+Taiwan,TWN,1989,-0.016
+Taiwan,TWN,1990,0.244
+Taiwan,TWN,1991,0.485
+Taiwan,TWN,1992,-0.1
+Taiwan,TWN,1993,0.316
+Taiwan,TWN,1994,0.325
+Taiwan,TWN,1995,0.158
+Taiwan,TWN,1996,-0.02
+Taiwan,TWN,1997,0.105
+Taiwan,TWN,1998,1.162
+Taiwan,TWN,1999,0.691
+Taiwan,TWN,2000,0.389
+Taiwan,TWN,2001,0.744
+Taiwan,TWN,2002,0.889
+Taiwan,TWN,2003,0.832
+Taiwan,TWN,2004,0.399
+Taiwan,TWN,2005,0.622
+Taiwan,TWN,2006,0.679
+Taiwan,TWN,2007,0.747
+Taiwan,TWN,2008,0.542
+Taiwan,TWN,2009,0.73
+Taiwan,TWN,2010,0.482
+Taiwan,TWN,2011,0.021
+Taiwan,TWN,2012,0.309
+Taiwan,TWN,2013,0.616
+Taiwan,TWN,2014,0.702
+Taiwan,TWN,2015,0.746
+Taiwan,TWN,2016,1.056
+Taiwan,TWN,2017,1.415
+Taiwan,TWN,2018,1.189
+Taiwan,TWN,2019,1.407
+Taiwan,TWN,2020,1.878
 Christmas Island,CXR,1980,0.17
 Christmas Island,CXR,1981,
 Christmas Island,CXR,1982,
@@ -2212,46 +2212,46 @@ Czechia,CZE,2017,1.585
 Czechia,CZE,2018,2.641
 Czechia,CZE,2019,2.533
 Czechia,CZE,2020,2.331
-South Korea,KOR,1980,0.016
-South Korea,KOR,1981,-0.584
-South Korea,KOR,1982,0.923
-South Korea,KOR,1983,0.609
-South Korea,KOR,1984,-0.14
-South Korea,KOR,1985,0.17
-South Korea,KOR,1986,-0.685
-South Korea,KOR,1988,0.588
-South Korea,KOR,1989,1.257
-South Korea,KOR,1990,1.353
-South Korea,KOR,1991,0.615
-South Korea,KOR,1992,0.785
-South Korea,KOR,1993,0.59
-South Korea,KOR,1994,1.385
-South Korea,KOR,1995,0.722
-South Korea,KOR,1996,0.313
-South Korea,KOR,1997,1.021
-South Korea,KOR,1998,1.809
-South Korea,KOR,1999,1.423
-South Korea,KOR,2000,0.64
-South Korea,KOR,2001,0.914
-South Korea,KOR,2002,0.914
-South Korea,KOR,2003,0.995
-South Korea,KOR,2004,1.634
-South Korea,KOR,2005,0.888
-South Korea,KOR,2006,0.734
-South Korea,KOR,2007,1.645
-South Korea,KOR,2008,1.553
-South Korea,KOR,2009,1.117
-South Korea,KOR,2010,0.428
-South Korea,KOR,2011,0.557
-South Korea,KOR,2012,0.457
-South Korea,KOR,2013,0.329
-South Korea,KOR,2014,1.517
-South Korea,KOR,2015,1.217
-South Korea,KOR,2016,1.416
-South Korea,KOR,2017,1.625
-South Korea,KOR,2018,0.904
-South Korea,KOR,2019,1.886
-South Korea,KOR,2020,1.967
+North Korea,PRK,1980,0.016
+North Korea,PRK,1981,-0.584
+North Korea,PRK,1982,0.923
+North Korea,PRK,1983,0.609
+North Korea,PRK,1984,-0.14
+North Korea,PRK,1985,0.17
+North Korea,PRK,1986,-0.685
+North Korea,PRK,1988,0.588
+North Korea,PRK,1989,1.257
+North Korea,PRK,1990,1.353
+North Korea,PRK,1991,0.615
+North Korea,PRK,1992,0.785
+North Korea,PRK,1993,0.59
+North Korea,PRK,1994,1.385
+North Korea,PRK,1995,0.722
+North Korea,PRK,1996,0.313
+North Korea,PRK,1997,1.021
+North Korea,PRK,1998,1.809
+North Korea,PRK,1999,1.423
+North Korea,PRK,2000,0.64
+North Korea,PRK,2001,0.914
+North Korea,PRK,2002,0.914
+North Korea,PRK,2003,0.995
+North Korea,PRK,2004,1.634
+North Korea,PRK,2005,0.888
+North Korea,PRK,2006,0.734
+North Korea,PRK,2007,1.645
+North Korea,PRK,2008,1.553
+North Korea,PRK,2009,1.117
+North Korea,PRK,2010,0.428
+North Korea,PRK,2011,0.557
+North Korea,PRK,2012,0.457
+North Korea,PRK,2013,0.329
+North Korea,PRK,2014,1.517
+North Korea,PRK,2015,1.217
+North Korea,PRK,2016,1.416
+North Korea,PRK,2017,1.625
+North Korea,PRK,2018,0.904
+North Korea,PRK,2019,1.886
+North Korea,PRK,2020,1.967
 Democratic Republic of the Congo,COD,1980,0.345
 Democratic Republic of the Congo,COD,1981,0.168
 Democratic Republic of the Congo,COD,1982,0.198
