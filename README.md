@@ -33,7 +33,8 @@ Paris agreement information: https://www.un.org/en/climatechange/paris-agreement
 ![CO2_by_region](https://user-images.githubusercontent.com/114765725/226187687-a798302a-7f75-482b-bdad-3b8d58c44c06.png)
 
 กราฟแสดงการปล่อยก๊าซคาร์บอนไดออกไซด์ของแต่ประเทศในแต่ละทวีป
-![CO2_by_country](https://user-images.githubusercontent.com/114765725/226187700-84cb0123-8d37-40a0-953c-666c725de17e.png)
+![CO2_by_country](https://user-images.githubusercontent.com/114765725/226349144-19984b52-697c-4d18-b94b-0e59a806d71d.png)
+
 
 กราฟแสดงการปล่อยก๊าซคาร์บอนไดออกไซด์สูงสุด 5 ประเทศ
 ![CO2_highest](https://user-images.githubusercontent.com/114765725/226187935-4be3e91b-c484-442a-b9e6-97cc9f899723.png)
